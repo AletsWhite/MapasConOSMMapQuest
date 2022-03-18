@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/ruta"
+        android:title="ruta" />
+    <item android:id="@+id/limpiarRuta"
+        android:title="limpiar rutas" />
+</menu>
